@@ -5,6 +5,8 @@
 # Kandy WebRTC Statistics Analyzer
 This is a tool for visualizing WebRTC statistics data. It currently works with the data produced by Kandy.js SDK and MobileSDK.
 
+[Live Demo](https://kandy-io.github.io/kandy-webrtc-statistics-analyzer/dist/)
+
 ## Run local device
 
 You need to have installed [Node.js](https://nodejs.org/en/download/) on your local device.
